@@ -23,6 +23,7 @@
   "homepage": "https://github.com/dangrossman/daterangepicker",
   "dependencies": {
     "jquery": ">=1.10",
+    "moment-timezone": "^0.5.32",
     "moment": "^2.9.0"
   }
 }
